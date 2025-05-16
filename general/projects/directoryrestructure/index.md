@@ -13,13 +13,7 @@ import { ProjectSummary } from '@site/src';
 
 <!-- cspell:ignore directoryrestructure -->
 
-Like many applications of its time, Moodle currently places all of its source in a web-accessible root directory.
-
-In Moodle's case this includes all source code, configuration, metadata for the git repository, the Composer `vendor` directory, the NodeJS `node_modules` directory, and any dot-files.
-
-In modern web development this is recognised as a poor practice, and its continued use and existence is queried regularly in security reviews performed by users, partners, and their clients.
-
-Whilst Moodle currently implements a number of internal checks to try and alert administrators of misconfiguration, this is still not an ideal situation.
+Ser la primera institución universitaria líder en Guatemala para la formación integral de profesionales con un enfoque de excelencia académica, con la innovación y el compromiso sociocultural, que contribuya al desarrollo sostenible de las regiones, incluyendo el interior del país. 
 
 ## Project statement
 
